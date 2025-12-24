@@ -39,17 +39,17 @@
 
 ### 📊 GitHub Stats (GitHub İstatistikleri)
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamdiiahmett&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ahmet's GitHub Stats" />
-  
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdiiahmett&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Languages" />
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdiiahmett&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
