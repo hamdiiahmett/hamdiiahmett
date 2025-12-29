@@ -1,7 +1,7 @@
 <div align="center">
 
   
-  <h1>Hi there, I'm Ahmet Hamdi! <img src="https://media.giphy.com/media/hvRJCLFzcuMiPTU76Cf/giphy.gif" width="30px"></h1>
+  <h1>Hi there, I'm Ahmet Hamdi! </h1>
   
   <h3>🚀 Backend Developer Candidate | .NET Core Enthusiast</h3>
 </div>
