@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200" alt="Coding GIF"/>
+
   
   <h1>Hi there, I'm Ahmet Hamdi! <img src="https://media.giphy.com/media/hvRJCLFzcuMiPTU76Cf/giphy.gif" width="30px"></h1>
   
@@ -14,7 +14,6 @@
   - 💻 My main focus is **Backend Development** using **C#** and **.NET Core**.
   - 🎯 I’m currently preparing for **DGS** to transfer to Computer Engineering.
   - 🐧 I use both **Linux (Zorin OS)** and **Windows** environments.
-  - 🎵 Fun fact: I love coding while listening to **Indie Rock** (fav: Pilli Bebek).
   ---
 
 ### 🛠️ Languages and Tools (Diller ve Araçlar)
